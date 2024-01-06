@@ -16,9 +16,8 @@ public class HWDemo {
 		
 
 
-		System.out.println("Dogs are the best");// Ellen
+		System.out.println("Cats are the best");// Ellen
 
-		count100();
 
 	}
 	public void subtract(int a, int b) {
