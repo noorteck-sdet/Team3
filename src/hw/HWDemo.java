@@ -8,10 +8,18 @@ public class HWDemo {
 	public static void main(String[] args) {
 		
 		System.out.println("Dogs are the best");//Ellen
+		
+		count100();
+	
+	
 	}
 	
 	
-	public void add(int a, int b) {
-		System.out.println(a+b);//Cindy
+	public static void count100() {
+		int count = 1;
+		for(int i = 0; i < 100; i++) {
+			System.out.println(count);
+			count++;
+		}
 	}
 }
