@@ -9,4 +9,8 @@ public class HWDemo {
 		
 		System.out.println("Dogs are the best");
 	}
+	
+	public void dog(String bark) {
+		System.out.println("bark");
+	}
 }
