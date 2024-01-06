@@ -10,7 +10,7 @@ public class HWDemo {
 	public static void main(String[] args) {
 
 		
-		System.out.println("Cats are the best");
+		System.out.println("Dogs are the best");//Ellen
 		
 		// java is fun
 		
@@ -55,7 +55,7 @@ public class HWDemo {
 
 	//trying to fill up space, but stash it - Ellen
 	
-	
+	//just trying to fill in the space!-Ellen
 
 
 	public void dog(String bark) {
