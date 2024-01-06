@@ -55,16 +55,15 @@ public class HWDemo {
 	public void dog(String bark) {
 
 		System.out.println("bark");
-
 	// alishan added this
-
-
-	//Let's see how it goes today---Cindy
-
-
 	}
 	//Solia
 	public static void add(int a, int b){
 		System.out.println(a+b); 
+
+	//Let's see how it goes today---Cindy
 	} 
 }
+
+	
+
