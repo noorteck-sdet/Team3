@@ -62,6 +62,10 @@ public class HWDemo {
 		System.out.println(a+b); 
 
 	//Let's see how it goes today---Cindy
+			
+	}	
+	public void song(String fox) {
+		System.out.println("What does the fox say???");
 	} 
 }
 
