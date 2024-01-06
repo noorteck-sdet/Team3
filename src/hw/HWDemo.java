@@ -61,11 +61,11 @@ public class HWDemo {
 	public static void add(int a, int b){
 		System.out.println(a+b); 
 
-	//Let's see how it goes today---Cindy
+	//Let's see how it goes today---Cindy from GitHub
 			
 	}	
 	public void song(String fox) {
-		System.out.println("What does the fox say???");
+		System.out.println("What does the fox say???");//Cindy from Java
 	} 
 }
 
