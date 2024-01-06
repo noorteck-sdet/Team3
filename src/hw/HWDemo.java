@@ -81,7 +81,10 @@ public class HWDemo {
 	//all the line spacing in the code drives me nuts! -Ellen
 	
 	public static void multiply(int c, int d) {
-		System.out.println(c*d);
+		System.out.println(c * d);
+
+		// hello from Git - Sabs
+		
 
 
 	}
