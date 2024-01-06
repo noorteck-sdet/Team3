@@ -8,7 +8,7 @@ public class HWDemo {
 	public static void main(String[] args) {
 
 		
-		System.out.println("Dogs are the best");
+		System.out.println("Cats are the best");
 		
 		// java is fun
 		
