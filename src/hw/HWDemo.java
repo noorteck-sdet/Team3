@@ -7,7 +7,12 @@ public class HWDemo {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Dogs are the best");
+		System.out.println("Dogs are the best");//Ellen
+	}
+	
+	
+	public void add(int a, int b) {
+		System.out.println(a+b);//Cindy
 	}
 	
 	public void dog(String bark) {
