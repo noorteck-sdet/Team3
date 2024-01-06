@@ -83,7 +83,7 @@ public class HWDemo {
 	public static void multiply(int c, int d) {
 		System.out.println(c * d);
 
-		// hello from Git - Sabs
+		// hello from Git - Sabina
 		
 
 
