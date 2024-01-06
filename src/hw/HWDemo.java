@@ -67,6 +67,10 @@ public class HWDemo {
 	public void song(String fox) {
 		System.out.println("What does the fox say???");//Cindy from Java
 	} 
+	
+	public static void num(String name) {
+		
+	}
 }
 
 	
