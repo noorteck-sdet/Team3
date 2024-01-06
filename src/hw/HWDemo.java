@@ -22,4 +22,8 @@ public class HWDemo {
 			count++;
 		}
 	}
+	
+	public void dog(String bark) {
+		System.out.println("bark");
+	}
 }
