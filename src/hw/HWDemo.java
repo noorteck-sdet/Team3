@@ -1,5 +1,7 @@
 package hw;
 
+import java.util.ArrayList;
+
 public class HWDemo {
 
 	// Instruction: Each team member pushes at least once by adding 1 method
@@ -13,27 +15,30 @@ public class HWDemo {
 		// java is fun
 		
 		// i like java
+		
+	    //Ahmed Aly added this ArrayList
+		ArrayList <String> marketTeam3 = new ArrayList <> (); 
 
-        //Ahmed Aly added this ArrayList
-	ArrayList <String> marketTeam3 = new ArrayList <> (); 
+			marketTeam3.add("Ahmed");
+			marketTeam3.add("Alishan");
+			marketTeam3.add("Brian");
+			marketTeam3.add("Cindy");
+			marketTeam3.add("Kamy");
+			marketTeam3.add("Ellen");
+			marketTeam3.add("Jackie");
+			marketTeam3.add("Sabina");
+			marketTeam3.add("Ehsen");
+			marketTeam3.add("Akbr");
+			marketTeam3.add("Kayla");
+			marketTeam3.add("Soli");
+			marketTeam3.add("Faraz");
+	System.out.println(marketTeam3);
 
-		Team3.add("Ahmed");
-		Team3.add("Alishan");
-		Team3.add("Brian");
-		Team3.add("Cindy");
-		Team3.add("Kamy");
-		Team3.add("Ellen");
-		Team3.add("Jackie");
-		Team3.add("Sabina");
-		Team3.add("Ehsen");
-		Team3.add("Akbr");
-		Team3.add("Kayla");
-		Team3.add("Soli");
-		Team3.add("Faraz");
-System.out.println(marketTeam3);
+		
 
-	}
 		System.out.println("Cats are the best");// Ellen
+		
+		
 
 
 	}
