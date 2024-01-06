@@ -38,7 +38,7 @@ public class HWDemo {
 
 		
 
-		System.out.println("Cats are the best");// Ellen
+		System.out.println("Dogs are the best");//Ellen
 		
 		
        //I can't wait to hit the market Ahmed "coming from gitHub"
