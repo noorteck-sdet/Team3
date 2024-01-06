@@ -14,8 +14,8 @@ public class HWDemo {
 		
 		// i like java
 
-
-	ArrayList <String> marketTeam3 = new ArrayList <> ();
+        //Ahmed Aly added this ArrayList
+	ArrayList <String> marketTeam3 = new ArrayList <> (); 
 
 		Team3.add("Ahmed");
 		Team3.add("Alishan");
