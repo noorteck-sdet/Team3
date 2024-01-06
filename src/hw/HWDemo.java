@@ -15,7 +15,7 @@ public class HWDemo {
 		System.out.println(a+b);//Cindy
 	}
 	
-	public void dog(String bark) {
+	public void dog(String bark) {//Brian
 		System.out.println("bark");
 	}
 }
