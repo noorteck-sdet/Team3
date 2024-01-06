@@ -42,6 +42,11 @@ public class HWDemo {
 		
 		
        //I can't wait to hit the market Ahmed "coming from gitHub"
+		
+		HWDemo obj = new HWDemo();
+		
+		System.out.println(obj.isEven(8));
+		System.out.println(obj.isEven(3));
 
 	}
 	public void subtract(int a, int b) {
@@ -60,18 +65,17 @@ public class HWDemo {
 	//Solia
 	public static void add(int a, int b){
 		System.out.println(a+b); 
-
-	//Let's see how it goes today---Cindy from GitHub
-			
-	}	
-	public void song(String fox) {
-		System.out.println("What does the fox say???");//Cindy from Java
 	} 
 	
 	public static void num(String name) {
 
 		// this is from git to java, alishan
 		
+	}
+	
+	public boolean isEven(int num) {
+		if(num%2==0) return true;
+		return false;
 	}
 }
 
