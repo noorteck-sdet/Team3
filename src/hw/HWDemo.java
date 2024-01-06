@@ -77,6 +77,7 @@ public class HWDemo {
 		if(num%2==0) return true;
 		return false;
 	}
+	//all the line spacing in the code drives me nuts! -Ellen
 }
 
 	
