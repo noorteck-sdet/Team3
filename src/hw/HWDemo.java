@@ -44,6 +44,7 @@ public class HWDemo {
 		
 		System.out.println(obj.isEven(8));
 		System.out.println(obj.isEven(3));
+		System.out.println(obj.isEven(9));
 
 	}
 	public void subtract(int a, int b) {
