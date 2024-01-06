@@ -13,9 +13,26 @@ public class HWDemo {
 		// java is fun
 		
 		// i like java
-		
 
 
+	ArrayList <String> marketTeam3 = new ArrayList <> ();
+
+		Team3.add("Ahmed");
+		Team3.add("Alishan");
+		Team3.add("Brian");
+		Team3.add("Cindy");
+		Team3.add("Kamy");
+		Team3.add("Ellen");
+		Team3.add("Jackie");
+		Team3.add("Sabina");
+		Team3.add("Ehsen");
+		Team3.add("Akbr");
+		Team3.add("Kayla");
+		Team3.add("Soli");
+		Team3.add("Faraz");
+System.out.println(marketTeam3);
+
+	}
 		System.out.println("Cats are the best");// Ellen
 
 
