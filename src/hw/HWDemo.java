@@ -80,9 +80,9 @@ public class HWDemo {
 	}
 	//all the line spacing in the code drives me nuts! -Ellen
 	
-<<<<<<< HEAD
+
 	//pulling from GitHub
-=======
+
 	public static void multiply(int c, int d) {
 		System.out.println(c * d);
 
@@ -92,10 +92,10 @@ public class HWDemo {
 	public static void GitHub(int a, String git) {
 		System.out.println(a + "git");//Brian did this
 	}
-	public static void subtract (int e, int f){
-		System.out.println(e-f);//Ellen
+	public static void divide(int e, int f){
+		System.out.println(e/f);//Ellen
 		
->>>>>>> branch 'master' of https://github.com/noorteck-sdet/Team3.git
+	}
 }
 
 	
