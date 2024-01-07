@@ -122,4 +122,7 @@ public class HWDemo {
 	}
 	//Hope Everything Is Good SOLIANA 
 >>>>>>> branch 'master' of https://github.com/noorteck-sdet/Team3.git
+	
+	
+	//Kayla is pushing to team 3
 }
