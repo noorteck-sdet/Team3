@@ -89,6 +89,9 @@ public class HWDemo {
 	public static void GitHub(int a, String git) {
 		System.out.println(a + "git");//Brian did this
 	}
+	public static void subtract (int e, int f){
+		System.out.println(e-f);//Ellen
+		
 }
 
 	
