@@ -96,15 +96,11 @@ public class HWDemo {
 		System.out.println(e/f);//Ellen
 		
 		//stashing again
-<<<<<<< HEAD
 		
 		//pulling from Git
-	}
-=======
 
 		System.out.println("Sunday Funday");//Ellen
 	}
->>>>>>> branch 'master' of https://github.com/noorteck-sdet/Team3.git
 }
 
 	
