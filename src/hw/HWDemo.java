@@ -10,11 +10,11 @@ public class HWDemo {
 	public static void main(String[] args) {
 
 		
-<<<<<<< HEAD
+
 		System.out.println("Dogs are the best");
-=======
+
 		System.out.println("Dogs are the best");//Ellen
->>>>>>> branch 'master' of https://github.com/noorteck-sdet/Team3.git
+
 		
 		// java is fun
 		
@@ -40,14 +40,12 @@ public class HWDemo {
 			marketTeam3.add("Faraz");
 	System.out.println(marketTeam3);
 
-<<<<<<< HEAD
+
 				
-=======
 		
 
 		System.out.println("Dogs are the best");//Ellen
 		
->>>>>>> branch 'master' of https://github.com/noorteck-sdet/Team3.git
 		
        //I can't wait to hit the market Ahmed "coming from gitHub"
 		
@@ -62,14 +60,13 @@ public class HWDemo {
 		System.out.println(a - b);
 	}
 
-<<<<<<< HEAD
-=======
+
+
 	//trying to fill up space, but stash it - Ellen
 	
 	//just trying to fill in the space!-Ellen
 
 
->>>>>>> branch 'master' of https://github.com/noorteck-sdet/Team3.git
 	public void dog(String bark) {
 
 		System.out.println("bark");
@@ -121,7 +118,6 @@ public class HWDemo {
 		System.out.println(str);
 	}
 	//Hope Everything Is Good SOLIANA 
->>>>>>> branch 'master' of https://github.com/noorteck-sdet/Team3.git
 	
 	
 	//Kayla is pushing to team 3
