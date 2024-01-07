@@ -84,9 +84,10 @@ public class HWDemo {
 		System.out.println(c * d);
 
 		// hello from Git - Sabina
-		
+	}
 
-
+	public static void GitHub(int a, String git) {
+		System.out.println(a + "git");//Brian did this
 	}
 }
 
