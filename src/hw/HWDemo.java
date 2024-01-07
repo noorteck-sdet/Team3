@@ -132,4 +132,8 @@ public class HWDemo {
 	// Print Demo Comment
 
 	}
+
+	public void myMethod() {
+		System.out.println("Demo Method");
+	}
 }
