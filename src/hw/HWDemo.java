@@ -103,8 +103,9 @@ public class HWDemo {
 	}
 
 	// Git to Java--Brian
+	String str = "We're going to crush it!";
 	public static void jobMarket(String str) {
-		String str = "We're going to crush it!";
+		
 		System.out.println(str);
 	}
 }
