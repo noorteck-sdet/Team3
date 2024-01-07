@@ -96,6 +96,8 @@ public class HWDemo {
 		System.out.println(e/f);//Ellen
 		
 		//stashing again
+
+		System.out.println("Sunday Funday");//Ellen
 	}
 }
 
