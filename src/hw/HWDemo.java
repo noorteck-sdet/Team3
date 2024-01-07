@@ -138,5 +138,7 @@ public class HWDemo {
 
 // kayla making changes 
 //Cats are the best!!!!
+	
+	//Kamy's note
 }
 }
