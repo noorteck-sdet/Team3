@@ -101,6 +101,12 @@ public class HWDemo {
 
 		System.out.println("Sunday Funday");//Ellen
 	}
+
+	// Git to Java--Brian
+	public static void jobMarket(String str) {
+		String str = "We're going to crush it!";
+		System.out.println(str);
+	}
 }
 
 	
