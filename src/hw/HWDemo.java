@@ -126,4 +126,9 @@ public class HWDemo {
 	
 	//Kayla is pushing to team 3
 //pulling from Gethub
+	
+		public void comment() {
+			System.out.println("Demo Comment");
+
+	}
 }
