@@ -10,6 +10,8 @@ public class HWDemo {
 	public static void main(String[] args) {
 
 		System.out.println("Dogs are the best");// Ellen
+		System.out.println("Hello GitHub....");// Akbar is Comment
+		// System.out.println("Hello GitHub....");// Akbar is Comment 1111111
 
 		// java is fun
 
@@ -28,8 +30,8 @@ public class HWDemo {
 		marketTeam3.add("Ellen");
 		marketTeam3.add("Jackie");
 		marketTeam3.add("Sabina");
-		marketTeam3.add("Ehsen");
-		marketTeam3.add("Akbr");
+		marketTeam3.add("Ehsan");
+		marketTeam3.add("Akbar");
 		marketTeam3.add("Kayla");
 		marketTeam3.add("Soli");
 		marketTeam3.add("Faraz");
@@ -42,7 +44,7 @@ public class HWDemo {
 		System.out.println(obj.isEven(8));
 		System.out.println(obj.isEven(3));
 		System.out.println(obj.isEven(9));
-		
+
 		hw();
 
 	}
@@ -50,10 +52,6 @@ public class HWDemo {
 	public void subtract(int a, int b) {
 		System.out.println(a - b);
 	}
-
-	// trying to fill up space, but stash it - Ellen
-
-	// just trying to fill in the space!-Ellen
 
 	public void dog(String bark) {
 
@@ -77,7 +75,6 @@ public class HWDemo {
 			return true;
 		return false;
 	}
-	// all the line spacing in the code drives me nuts! -Ellen
 
 	// pulling from GitHub
 
@@ -111,7 +108,7 @@ public class HWDemo {
 	// Hope Everything Is Good SOLIANA
 
 	// Kayla is pushing to team 3
-	//pulling from GitHub
+	// pulling from GitHub
 
 	public void comment() {
 		System.out.println("Demo Comment");
@@ -121,12 +118,24 @@ public class HWDemo {
 
 	public void myMethod() {
 		System.out.println("Demo Method");
+
 		// print Demo Method
 	}
-	
+
+	// Kayla is pushing to team 3
+
+	// kayla making changes
+	// Cats are the best!!!!
+
+	// Kamy's note
+	// Kamy's note coming from Github
+
+	// Akbar Start Practicing
+
 	public static final String hw() {
-		return  "Homework is done...";
+		return "Homework is done...";
+
+		// Did some final changes before we wrap this homework... -Ehsan
 	}
-	
-	
+
 }
