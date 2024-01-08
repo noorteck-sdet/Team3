@@ -91,6 +91,18 @@ public class HWDemo {
 
 	public void myMethod() {
 		System.out.println("Demo Method");
+	//Let's see how it goes today---Cindy from GitHub
+			
+	}	
+	public void song(String fox) {
+		System.out.println("What does the fox say???");//Cindy from Java
+		
+	} 
+	
+	public void song1(String say) {
+		System.out.println(Meow meow meow meow meow meow);//Cindy From Java
+	}
+}
 
 		// print Demo Method
 	}
