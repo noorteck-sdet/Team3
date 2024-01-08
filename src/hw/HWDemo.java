@@ -135,7 +135,7 @@ public class HWDemo {
 	public static final String hw() {
 		return "Homework is done...";
 
-		// Did some final changes before we wrap this homework... -Ehsan
+		// Did some final changes before we wrap up this homework... good job everyone! -Ehsan
 	}
 
 }
