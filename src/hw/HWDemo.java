@@ -1,7 +1,5 @@
 package hw;
 
-import java.util.ArrayList;
-
 public class HWDemo {
 
 	// Instruction: Each team member pushes at least once by adding 1 method
@@ -10,32 +8,6 @@ public class HWDemo {
 	public static void main(String[] args) {
 
 		System.out.println("Dogs are the best");// Ellen
-		System.out.println("Hello GitHub....");// Akbar is Comment
-		// System.out.println("Hello GitHub....");// Akbar is Comment 1111111
-
-		// java is fun
-
-		// i like java
-
-		// this is going well--Brian
-
-		// Ahmed Aly added this ArrayList
-		ArrayList<String> marketTeam3 = new ArrayList<>();
-
-		marketTeam3.add("Ahmed");
-		marketTeam3.add("Alishan");
-		marketTeam3.add("Brian");
-		marketTeam3.add("Cindy");
-		marketTeam3.add("Kamy");
-		marketTeam3.add("Ellen");
-		marketTeam3.add("Jackie");
-		marketTeam3.add("Sabina");
-		marketTeam3.add("Ehsan");
-		marketTeam3.add("Akbar");
-		marketTeam3.add("Kayla");
-		marketTeam3.add("Soli");
-		marketTeam3.add("Faraz");
-		System.out.println(marketTeam3);
 
 		// I can't wait to hit the market Ahmed "coming from gitHub"
 
@@ -49,15 +21,16 @@ public class HWDemo {
 
 	}
 
-	public void subtract(int a, int b) {
-		System.out.println(a - b);
+	public static void count100() {
+		int count = 1;
+		for (int i = 0; i < 100; i++) {
+			System.out.println(count);
+			count++;
+		}
 	}
 
 	public void dog(String bark) {
-
 		System.out.println("bark");
-		// Alishan added this
-	}
 
 	// Solia
 	public static void add(int a, int b) {
@@ -129,7 +102,7 @@ public class HWDemo {
 
 	// kayla making changes
 	// Cats are the best!!!!
-
+ 
 	// Kamy's note
 	// Kamy's note coming from Github
 
